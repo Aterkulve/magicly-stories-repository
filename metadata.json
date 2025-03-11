@@ -1,18 +1,398 @@
 [
-    {"title": "Alice's Adventures in Wonderland", "author": "Lewis Carroll", "year": 1865, "category": "Curiosity & Imagination", "cover_image": "https://www.gutenberg.org/files/11/11-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/11/11-h/11-h.htm"},
-    {"title": "Through the Looking-Glass", "author": "Lewis Carroll", "year": 1871, "category": "Curiosity & Imagination", "cover_image": "https://www.gutenberg.org/files/12/12-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/12/12-h/12-h.htm"},
-    {"title": "Peter Pan", "author": "J.M. Barrie", "year": 1911, "category": "Growing Up & Responsibility", "cover_image": "https://www.gutenberg.org/files/16/16-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/16/16-h/16-h.htm"},
-    {"title": "The Tale of Peter Rabbit", "author": "Beatrix Potter", "year": 1902, "category": "Actions & Consequences", "cover_image": "https://www.gutenberg.org/files/14838/14838-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/14838/14838-h/14838-h.htm"},
-    {"title": "The Wind in the Willows", "author": "Kenneth Grahame", "year": 1908, "category": "Friendship & Loyalty", "cover_image": "https://www.gutenberg.org/files/289/289-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/289/289-h/289-h.htm"},
-    {"title": "Grimms' Fairy Tales", "author": "Brothers Grimm", "year": 1812, "category": "Morality & Cautionary Lessons", "cover_image": "https://www.gutenberg.org/files/2591/2591-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/2591/2591-h/2591-h.htm"},
-    {"title": "Aesop's Fables", "author": "Aesop", "year": 600, "category": "Actions & Consequences", "cover_image": "https://www.gutenberg.org/files/11339/11339-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/11339/11339-h/11339-h.htm"},
-    {"title": "Treasure Island", "author": "Robert Louis Stevenson", "year": 1883, "category": "Friendship & Loyalty", "cover_image": "https://www.gutenberg.org/files/120/120-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/120/120-h/120-h.htm"},
-    {"title": "The Jungle Book", "author": "Rudyard Kipling", "year": 1894, "category": "Friendship & Loyalty", "cover_image": "https://www.gutenberg.org/files/236/236-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/236/236-h/236-h.htm"},
-    {"title": "Heidi", "author": "Johanna Spyri", "year": 1881, "category": "Growing Up & Responsibility", "cover_image": "https://www.gutenberg.org/files/1448/1448-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/1448/1448-h/1448-h.htm"},
-    {"title": "Black Beauty", "author": "Anna Sewell", "year": 1877, "category": "Empathy & Transformation", "cover_image": "https://www.gutenberg.org/files/271/271-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/271/271-h/271-h.htm"},
-    {"title": "The Secret Garden", "author": "Frances Hodgson Burnett", "year": 1911, "category": "Empathy & Transformation", "cover_image": "https://www.gutenberg.org/files/113/113-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/113/113-h/113-h.htm"},
-    {"title": "Anne of Green Gables", "author": "L.M. Montgomery", "year": 1908, "category": "Curiosity & Imagination", "cover_image": "https://www.gutenberg.org/files/45/45-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/45/45-h/45-h.htm"},
-    {"title": "Little Women", "author": "Louisa May Alcott", "year": 1868, "category": "Growing Up & Responsibility", "cover_image": "https://www.gutenberg.org/files/514/514-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/514/514-h/514-h.htm"},
-    {"title": "Cautionary Tales for Children", "author": "Hilaire Belloc", "year": 1907, "category": "Actions & Consequences", "cover_image": "https://www.gutenberg.org/files/27424/27424-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/27424/27424-h/27424-h.htm"},
-    {"title": "Winnie-the-Pooh", "author": "A.A. Milne", "year": 1926, "category": "Friendship & Loyalty", "cover_image": "https://www.gutenberg.org/files/67098/67098-h/images/cover.jpg", "link": "https://www.gutenberg.org/files/67098/67098-h/67098-h.htm"}
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "year": 1865,
+    "category": "Curiosity & Imagination",
+    "cover_image": "https://www.gutenberg.org/files/11/11-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/11/11-h/11-h.htm",
+    "summary": "Alice tumbles down a rabbit hole into the whimsical world of Wonderland, where logic is turned upside down. She meets eccentric creatures such as the Mad Hatter, the Cheshire Cat, and the Queen of Hearts, all while struggling to make sense of Wonderland’s strange rules. Throughout her journey, Alice grows from a naive and curious girl into someone who questions authority, embraces change, and finds her own way back home.",
+    "characters": [
+      {
+        "name": "Alice",
+        "description": "A clever and adventurous girl with an independent spirit. Initially bewildered by Wonderland, she gradually learns to challenge absurdity and stand up for herself."
+      },
+      {
+        "name": "The Mad Hatter",
+        "description": "A chaotic, riddle-loving tea party host who represents the nonsensical nature of Wonderland."
+      },
+      {
+        "name": "The Cheshire Cat",
+        "description": "A grinning, philosophical cat who gives cryptic but occasionally insightful advice."
+      },
+      {
+        "name": "The Queen of Hearts",
+        "description": "A temperamental ruler who demands absolute obedience, embodying tyranny and absurdity."
+      }
+    ]
+  },
+  {
+    "title": "Through the Looking-Glass",
+    "author": "Lewis Carroll",
+    "year": 1871,
+    "category": "Curiosity & Imagination",
+    "cover_image": "https://www.gutenberg.org/files/12/12-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/12/12-h/12-h.htm",
+    "summary": "Alice steps through a mirror into a world where everything is reversed, like a giant chessboard. She embarks on a journey to become a queen, encountering surreal characters such as Tweedledee and Tweedledum, Humpty Dumpty, and the Red and White Queens. The adventure forces Alice to think critically and adapt to bizarre challenges, ultimately shaping her confidence and understanding of herself.",
+    "characters": [
+      {
+        "name": "Alice",
+        "description": "A quick-witted and increasingly self-assured girl, learning to navigate a world where rules constantly change."
+      },
+      {
+        "name": "Tweedledee & Tweedledum",
+        "description": "Identical twins who confuse Alice with their paradoxical conversations."
+      },
+      {
+        "name": "The White Queen",
+        "description": "Kind but absent-minded, often lost in her own world of strange logic."
+      },
+      {
+        "name": "The Red Queen",
+        "description": "Stern and commanding, pushing Alice to prove herself in the chess-like world."
+      }
+    ]
+  },
+  {
+    "title": "Peter Pan",
+    "author": "J.M. Barrie",
+    "year": 1911,
+    "category": "Growing Up & Responsibility",
+    "cover_image": "https://www.gutenberg.org/files/16/16-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/16/16-h/16-h.htm",
+    "summary": "Peter Pan, the boy who never grows up, whisks Wendy and her brothers to Neverland, a magical island filled with fairies, pirates, and adventure. While Peter embraces eternal childhood, Wendy struggles with the desire to nurture and mature. Their battle with Captain Hook reveals the contrast between carefree youth and the responsibilities of growing up. In the end, Wendy chooses reality, while Peter remains forever young.",
+    "characters": [
+      {
+        "name": "Peter Pan",
+        "description": "A charismatic but reckless boy who thrives on adventure but resists maturity."
+      },
+      {
+        "name": "Wendy Darling",
+        "description": "A caring and responsible girl who loves storytelling and grapples with her role as a 'mother' in Neverland."
+      },
+      {
+        "name": "Captain Hook",
+        "description": "A vengeful and dramatic pirate obsessed with defeating Peter. He fears time, symbolized by a ticking crocodile."
+      },
+      {
+        "name": "Tinker Bell",
+        "description": "A feisty, fiercely loyal fairy with a jealous streak, but ultimately protective of Peter."
+      }
+    ]
+  },
+  {
+    "title": "The Tale of Peter Rabbit",
+    "author": "Beatrix Potter",
+    "year": 1902,
+    "category": "Actions & Consequences",
+    "cover_image": "https://www.gutenberg.org/files/14838/14838-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/14838/14838-h/14838-h.htm",
+    "summary": "Peter Rabbit disobeys his mother’s warnings and sneaks into Mr. McGregor’s garden, where he nearly gets caught. He barely escapes, learning a valuable lesson about caution and obedience. The story highlights curiosity, consequences, and the importance of listening to parental guidance.",
+    "characters": [
+      {
+        "name": "Peter Rabbit",
+        "description": "A mischievous and adventurous young rabbit who loves exploring but learns the hard way about danger."
+      },
+      {
+        "name": "Mr. McGregor",
+        "description": "The strict and grumpy gardener determined to keep animals out."
+      },
+      {
+        "name": "Peter’s Mother",
+        "description": "A wise and protective mother who tries to teach her children responsibility."
+      }
+    ]
+  },
+  {
+    "title": "The Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "year": 1908,
+    "category": "Friendship & Loyalty",
+    "cover_image": "https://www.gutenberg.org/files/289/289-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/289/289-h/289-h.htm",
+    "summary": "Mole, Rat, Badger, and the reckless Toad embark on adventures along the riverbank. Toad’s obsession with motorcars lands him in serious trouble, teaching him about responsibility, while his friends show him the power of loyalty and redemption.",
+    "characters": [
+      {
+        "name": "Mole",
+        "description": "A timid and naive creature who gains confidence and appreciation for adventure."
+      },
+      {
+        "name": "Rat",
+        "description": "A charming and poetic river dweller who enjoys life’s simple pleasures."
+      },
+      {
+        "name": "Toad",
+        "description": "A wealthy but irresponsible animal who learns humility after his reckless behavior leads to disaster."
+      },
+      {
+        "name": "Badger",
+        "description": "A wise and gruff figure who acts as a mentor and protector."
+      }
+    ]
+  },
+  {
+    "title": "Grimms' Fairy Tales",
+    "author": "Brothers Grimm",
+    "year": 1812,
+    "category": "Morality & Cautionary Lessons",
+    "cover_image": "https://www.gutenberg.org/files/2591/2591-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/2591/2591-h/2591-h.htm",
+    "summary": "A collection of dark and cautionary fairy tales, including Cinderella, Snow White, Hansel and Gretel, and Rapunzel, each filled with trials, transformations, and moral lessons.",
+    "characters": [
+      {
+        "name": "Cinderella",
+        "description": "A kind but mistreated girl who finds her strength through perseverance."
+      },
+      {
+        "name": "Hansel & Gretel",
+        "description": "Resourceful siblings who escape a wicked witch."
+      },
+      {
+        "name": "The Evil Queen",
+        "description": "A jealous ruler obsessed with beauty and power."
+      }
+    ]
+  },
+  {
+    "title": "Aesop's Fables",
+    "author": "Aesop",
+    "year": 600,
+    "category": "Actions & Consequences",
+    "cover_image": "https://www.gutenberg.org/files/11339/11339-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "summary": "A collection of short stories teaching life lessons, such as The Tortoise and the Hare and The Boy Who Cried Wolf, emphasizing patience, honesty, and wisdom.",
+    "characters": [
+      {
+        "name": "The Tortoise",
+        "description": "Slow but persistent, proving that steady effort wins the race."
+      },
+      {
+        "name": "The Hare",
+        "description": "Overconfident and learns humility."
+      }
+    ]
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "year": 1883,
+    "category": "Friendship & Loyalty",
+    "cover_image": "https://www.gutenberg.org/files/120/120-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/120/120-h/120-h.htm",
+    "summary": "Young Jim Hawkins embarks on a perilous sea journey in search of hidden treasure, encountering treacherous pirates along the way. He learns courage and discernment, particularly in his dealings with the cunning Long John Silver.",
+    "characters": [
+      {
+        "name": "Jim Hawkins",
+        "description": "A resourceful and brave boy who grows into a capable young man."
+      },
+      {
+        "name": "Long John Silver",
+        "description": "A charismatic but dangerous pirate, equally charming and ruthless."
+      }
+    ]
+  },
+  {
+    "title": "The Jungle Book",
+    "author": "Rudyard Kipling",
+    "year": 1894,
+    "category": "Friendship & Loyalty",
+    "cover_image": "https://www.gutenberg.org/files/236/236-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/236/236-h/236-h.htm",
+    "summary": "Mowgli, raised by wolves, must navigate the dangers of the jungle, including the tiger Shere Khan, while learning the rules of the wild from Baloo and Bagheera.",
+    "characters": [
+      {
+        "name": "Mowgli",
+        "description": "A clever and brave boy torn between civilization and nature."
+      },
+      {
+        "name": "Baloo",
+        "description": "A fun-loving bear who teaches Mowgli about the jungle’s relaxed side"
+      }
+    ]
+  },
+  {
+    "title": "Heidi",
+    "author": "Johanna Spyri",
+    "year": 1881,
+    "category": "Growing Up & Responsibility",
+    "cover_image": "https://www.gutenberg.org/files/1448/1448-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/1448/1448-h/1448-h.htm",
+    "summary": "Orphaned Heidi is sent to live with her reclusive grandfather in the Swiss Alps. Though he is initially gruff, Heidi's warmth and optimism melt his heart, and she comes to love her mountain home. However, she is later sent to the city to be a companion to a sickly girl named Clara. As Heidi struggles with homesickness, she also helps Clara regain her strength, proving that kindness and nature have healing powers.",
+    "characters": [
+      {
+        "name": "Heidi",
+        "description": "A cheerful and kind-hearted girl whose love for nature and people brings happiness to those around her. She transforms from a lonely orphan into a beacon of joy for others."
+      },
+      {
+        "name": "Grandfather (Alm-Uncle)",
+        "description": "A grumpy recluse who softens through Heidi’s love, ultimately embracing his role as her guardian."
+      },
+      {
+        "name": "Clara Sesemann",
+        "description": "A wealthy but frail girl who finds strength and joy through Heidi’s companionship."
+      },
+      {
+        "name": "Peter",
+        "description": "A simple and sometimes jealous goatherd who grows to appreciate Heidi’s friendship."
+      }
+    ]
+  },
+  {
+    "title": "Black Beauty",
+    "author": "Anna Sewell",
+    "year": 1877,
+    "category": "Empathy & Transformation",
+    "cover_image": "https://www.gutenberg.org/files/271/271-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/271/271-h/271-h.htm",
+    "summary": "Told from the perspective of a horse, this story follows Black Beauty's life, from a happy foalhood to hardship under cruel owners, and finally to a kind retirement. Along the way, Black Beauty experiences both kindness and suffering, demonstrating the importance of treating animals with respect and compassion.",
+    "characters": [
+      {
+        "name": "Black Beauty",
+        "description": "A noble and gentle horse who endures hardships but remains strong and kind throughout his life."
+      },
+      {
+        "name": "Ginger",
+        "description": "A fiery-tempered horse who suffers greatly under cruel treatment, representing the consequences of abuse."
+      },
+      {
+        "name": "John Manly",
+        "description": "A kind and responsible groom who cares deeply for his horses."
+      },
+      {
+        "name": "Farmer Grey",
+        "description": "Black Beauty’s first and kindest owner, showing what good treatment looks like."
+      }
+    ]
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "year": 1911,
+    "category": "Empathy & Transformation",
+    "cover_image": "https://www.gutenberg.org/files/113/113-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/113/113-h/113-h.htm",
+    "summary": "Mary Lennox, a spoiled and neglected girl, is sent to live at her uncle’s mysterious estate after her parents’ death. There, she discovers a hidden, abandoned garden and slowly transforms it, as well as herself. Alongside her sickly cousin Colin and her friend Dickon, Mary learns that love, care, and nature have the power to heal both physical and emotional wounds.",
+    "characters": [
+      {
+        "name": "Mary Lennox",
+        "description": "A self-centered and lonely girl who blossoms into a kind and compassionate child through her connection with the garden."
+      },
+      {
+        "name": "Colin Craven",
+        "description": "A sickly, bedridden boy who regains his strength and confidence as he spends time outdoors."
+      },
+      {
+        "name": "Dickon Sowerby",
+        "description": "A nature-loving boy who understands animals and plants, guiding Mary and Colin toward healing."
+      },
+      {
+        "name": "Archibald Craven",
+        "description": "Mary’s grieving uncle who learns to embrace love and joy again."
+      }
+    ]
+  },
+  {
+    "title": "Anne of Green Gables",
+    "author": "L.M. Montgomery",
+    "year": 1908,
+    "category": "Curiosity & Imagination",
+    "cover_image": "https://www.gutenberg.org/files/45/45-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/45/45-h/45-h.htm",
+    "summary": "Orphaned Anne Shirley is mistakenly sent to live with elderly siblings Marilla and Matthew Cuthbert, who expected a boy to help with their farm. Despite her fiery temper and wild imagination, Anne wins the hearts of the community with her intelligence, optimism, and determination. Over time, she matures from a talkative, impulsive girl into a responsible and kind young woman.",
+    "characters": [
+      {
+        "name": "Anne Shirley",
+        "description": "A highly imaginative and passionate orphan who is desperate to belong. Initially reckless and dramatic, she grows into a mature, ambitious woman who values education and kindness."
+      },
+      {
+        "name": "Marilla Cuthbert",
+        "description": "A strict but fair woman who slowly warms up to Anne’s charm and learns to express love."
+      },
+      {
+        "name": "Matthew Cuthbert",
+        "description": "A quiet, gentle man who immediately adores Anne and encourages her dreams."
+      },
+      {
+        "name": "Gilbert Blythe",
+        "description": "A clever and mischievous boy who teases Anne at first but becomes her academic rival and later a close friend."
+      }
+    ]
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "year": 1868,
+    "category": "Growing Up & Responsibility",
+    "cover_image": "https://www.gutenberg.org/files/514/514-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/514/514-h/514-h.htm",
+    "summary": "The four March sisters—Meg, Jo, Beth, and Amy—navigate the challenges of growing up during the Civil War. Each has distinct dreams and struggles, from Jo’s writing ambitions to Amy’s pursuit of refinement. The story follows their growth, love, hardships, and eventual paths to womanhood, highlighting themes of family, sacrifice, and self-discovery.",
+    "characters": [
+      {
+        "name": "Jo March",
+        "description": "The bold and tomboyish second sister, passionate about writing and determined to be independent. She struggles with societal expectations but learns to balance her dreams with emotional connections."
+      },
+      {
+        "name": "Meg March",
+        "description": "The eldest, responsible and elegant, who dreams of a traditional family life but learns that happiness requires compromise."
+      },
+      {
+        "name": "Beth March",
+        "description": "The quiet, selfless sister who loves music and is deeply compassionate. Her fragile health teaches the family about love and loss."
+      },
+      {
+        "name": "Amy March",
+        "description": "The youngest, artistic and ambitious, who matures from a spoiled girl into a graceful woman who values both art and family."
+      }
+    ]
+  },
+  {
+    "title": "Cautionary Tales for Children",
+    "author": "Hilaire Belloc",
+    "year": 1907,
+    "category": "Actions & Consequences",
+    "cover_image": "https://www.gutenberg.org/files/27424/27424-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/27424/27424-h/27424-h.htm",
+    "summary": "A collection of humorous but darkly moralistic poems warning children of the consequences of bad behavior. Each tale features a child who misbehaves—whether by lying, being lazy, or ignoring advice—only to face extreme and often exaggerated consequences. The satirical tone makes the lessons memorable while poking fun at overly strict moral teachings.",
+    "characters": [
+      {
+        "name": "Matilda",
+        "description": "A girl who repeatedly lies and is ignored when she actually needs help, highlighting the dangers of dishonesty."
+      },
+      {
+        "name": "Jim",
+        "description": "A disobedient boy who runs away and meets a terrible fate, showing the cost of ignoring rules."
+      },
+      {
+        "name": "Henry King",
+        "description": "A boy who constantly sucks his thumb until a barber chops it off, illustrating the risks of bad habits."
+      }
+    ]
+  },
+  {
+    "title": "Winnie-the-Pooh",
+    "author": "A.A. Milne",
+    "year": 1926,
+    "category": "Friendship & Loyalty",
+    "cover_image": "https://www.gutenberg.org/files/67098/67098-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/67098/67098-h/67098-h.htm",
+    "summary": "Winnie-the-Pooh and his friends go on heartwarming adventures in the Hundred Acre Wood. They help each other with everyday challenges—like finding honey, searching for Eeyore’s lost tail, or planning a surprise party. Each character has unique traits that contribute to their friendships and lessons about kindness, loyalty, and embracing differences.",
+    "characters": [
+      {
+        "name": "Winnie-the-Pooh",
+        "description": "A lovable, slightly absent-minded bear who is obsessed with honey. He is kind, simple, and often wise in unexpected ways."
+      },
+      {
+        "name": "Piglet",
+        "description": "A nervous but courageous little pig who often overcomes his fears to help his friends."
+      },
+      {
+        "name": "Eeyore",
+        "description": "A pessimistic but endearing donkey who feels underappreciated but is deeply loved by his friends."
+      },
+      {
+        "name": "Tigger",
+        "description": "An energetic, bouncy tiger who is overly confident but learns to appreciate others’ differences."
+      }
+    ]
+  }
 ]
