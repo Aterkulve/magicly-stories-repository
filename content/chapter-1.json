@@ -1,0 +1,8 @@
+{
+  "title": "Contents",
+  "subtitle": "Contents",
+  "chapterId": "chapter-1",
+  "prev": null,
+  "next": "chapter-2",
+  "content": "<table style=\"\" summary=\"\">\n<tr>\n<td> <a href=\"#chap01\">Mowgli’s Brothers</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap02\">Hunting-Song of the Seeonee Pack</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap03\">Kaa’s Hunting</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap04\">Road-Song of the Bandar-Log</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap05\">“Tiger! Tiger!”</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap06\">Mowgli’s Song</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap07\">The White Seal</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap08\">Lukannon</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap09\">“Rikki-Tikki-Tavi”</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap10\">Darzee’s Chant</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap11\">Toomai of the Elephants</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap12\">Shiv and the Grasshopper</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap13\">Her Majesty’s Servants</a></td>\n</tr>\n<tr>\n<td> <a href=\"#chap14\">Parade Song of the Camp Animals</a></td>\n</tr>\n</table><div class=\"fig\" style=\"width:60%;\">\n<img alt=\"{5015}\" src=\"images/{5015}.jpg\" width=\"100%\"/>\n</div><img alt=\"{5015}\" src=\"images/{5015}.jpg\" width=\"100%\"/>"
+}
