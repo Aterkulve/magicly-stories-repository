@@ -152,6 +152,7 @@
   },
   {
     "title": "Treasure Island",
+    "hidden": true,
     "author": "Robert Louis Stevenson",
     "year": 1883,
     "category": "Friendship & Loyalty",
