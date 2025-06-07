@@ -199,6 +199,7 @@
   },
   {
     "title": "Heidi",
+    "hidden": true,
     "author": "Johanna Spyri",
     "year": 1881,
     "category": "Growing Up & Responsibility",
@@ -261,6 +262,7 @@
   },
   {
     "title": "The Secret Garden",
+    "hidden": true,
     "author": "Frances Hodgson Burnett",
     "year": 1911,
     "category": "Empathy & Transformation",
@@ -292,6 +294,7 @@
   },
   {
     "title": "Anne of Green Gables",
+    "hidden": true,
     "author": "L.M. Montgomery",
     "year": 1908,
     "category": "Curiosity & Imagination",
@@ -323,6 +326,7 @@
   },
   {
     "title": "Cautionary Tales for Children",
+    "hidden": true,
     "author": "Hilaire Belloc",
     "year": 1907,
     "category": "Actions & Consequences",
